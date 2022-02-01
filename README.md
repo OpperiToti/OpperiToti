@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/OpperiToti/OpperiToti/img_Banner.svg" alt="Marton Lederer" />
+  <img src="https://github.com/OpperiToti/OpperiToti/blob/main/img_Banner.svg" alt="Opperi Toti" />
 </h1>
 
 
