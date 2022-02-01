@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://github.com/OpperiToti/OpperiToti/blob/main/img_Banner.svg" alt="Opperi Toti" />
+  <img src="https://github.com/OpperiToti/OpperiToti/blob/main/banner.gif" alt="Opperi Toti" />
 </h1>
 
 
-![Repository Banner](img_Banner.svg)
+![Repository Banner](banner.gif)
 
 ### Hi there 👋
 
