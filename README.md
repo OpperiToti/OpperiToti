@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/OpperiToti/OpperiToti/blob/main/banner.gif" alt="Opperi Toti" />
-</h1>
-
 
 ![Repository Banner](banner.gif)
 
