@@ -2,8 +2,8 @@
 ![Repository Banner](banner.gif)
 
 <h1 align="center">Hi 👋, I'm Opperi</h1>
-<h3 align="center">A passionate software engineer from Côte d'Ivoire 🇨🇮 	&#127464 &#127470 </h3>
-
+<h3 align="center">A passionate software engineer from Côte d'Ivoire :cote_divoire: </h3> :cote_divoire:
+ 
 - 🔭 I’m currently working on **Mobile programming**
 
 - 🌱 I’m currently learning **Java, JavaScript, Angular and Flutter**
