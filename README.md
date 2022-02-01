@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://github.com/OpperiToti/OpperiToti/img_Banner.svg" alt="Marton Lederer" />
+</h1>
+
+
 ![Repository Banner](img_Banner.svg)
 
 ### Hi there 👋
