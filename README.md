@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with **Java programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OpperiToti](https://github.com/OpperiToti)
+- 👨‍💻 All of my projects are available at [Opperi](https://github.com/OpperiToti)
 
 - 💬 Ask me about **HTML, CSS , JavaScript, Flutter, Linux**
 
 - 📫 How to reach me **totiopperi@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/pHGowFtPv](https://resume.io/r/pHGowFtPv)
+- 📄 Know about my experiences [Resume](https://resume.io/r/pHGowFtPv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
