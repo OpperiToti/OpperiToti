@@ -1,4 +1,4 @@
-![Repository Banner](img_Banner.png)
+![Repository Banner](img_Banner.svg)
 
 ### Hi there 👋
 
